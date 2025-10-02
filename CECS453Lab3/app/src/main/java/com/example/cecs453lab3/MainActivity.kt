@@ -1,3 +1,5 @@
+//Matthew Samar and Joseph Dinh 10/1/25
+//CECS 453 Lab 3: Mortgage Calculator
 package com.example.cecs453lab3
 
 import android.os.Bundle
